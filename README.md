@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rayson Simon
-- 👀 I’m interested in Automations 
-- 🌱 I’m currently learning python 
+- 👀 I’m interested in Automations and electronic 
+- 🌱 I’have pursued bachelor of computer science 
 - 💞️ I’m looking to collaborate on skills sharing 
 - 📫 How to reach me Whatsapp +255656933685
 - 😄 Pronouns: dev 
