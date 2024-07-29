@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Rayson Simon
-- 👀 I’m interested in Automations and Electronic with Programming 🖥️
-- 🌱 I’have pursued bachelor in computer science 
+- 👀 I’m interested in Automations and Electronics with Programming 🖥️
+- 🌱 I’have pursued bachelor in Computer Science
 - 💞️ I’m looking to collaborate on skills sharing 
 - 📫 How to reach me Whatsapp +255656933685
-- 😄 Pronouns: dev / eng / programmer 
+- 😄 Pronouns: eng / programmer / developer 
 - ⚡ Fun fact: i like COOKIES! 
 
 <!---
