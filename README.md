@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rayson Simon
-- 👀 I’m passionate in Programming 🖥️
+- 👀 I am a full stack developer 
 - 🌱 I’have pursued bachelor in Computer Science
 - 💞️ I’m looking to collaborate on skills sharing 
 - 📫 How to reach me Whatsapp +255656933685
