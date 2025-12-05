@@ -2,7 +2,7 @@
 
 💻 **Full Stack Developer | MERN**  
 🚀 Currently working at **Tanzanite Skills Academy** as a Full Stack Developer  
-🎓 Bachelor of Science in Computer Science  BSc. CS
+🎓 Bachelor of Science in Computer Science - BSc. CS
 
 ---
 
