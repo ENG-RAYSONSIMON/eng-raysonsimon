@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Rayson Simon
 
-💻 **Full Stack Developer | MERN  | Exploring Django REST Framework**
-🚀 Currently working at **Tanzanite Skills Academy** as a Full Stack Developer
-🎓 Bachelor of Science in Computer Science - BSc. CS
+💻 **Full Stack Developer (MERN) | Backend-Focused | Exploring Django REST Framework**
+🚀 Full Stack Developer at **Tanzanite Skills Academy**
+🎓 BSc. Computer Science
 
 </div>
 
@@ -29,7 +29,7 @@
 
 </div>
 
-### 🗄️ Database
+### 🗄️ Databases
 <div>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -45,7 +45,7 @@
 
 </div>
 
-### 🤖 AI & Prompt Engineering
+### 🤖 AI & Productivity
 <div>
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
@@ -53,7 +53,7 @@
 
 </div>
 
-### 🛠️ Other Tools
+### 🛠️ Tools
 <div>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -63,16 +63,24 @@
 
 ---
 
+## 🎯 Focus
+
+- ⚡ Building **scalable APIs and backend systems**
+- 📊 Designing **efficient database structures (PostgreSQL, MySQL)**
+- 🔄 Working with **real-time systems & integrations (Socket.IO, APIs)**
+- 📱 Developing **cross-platform mobile apps (React Native)**
+
+---
+
 ## 👀 About Me
 
 | Emoji | Info |
 |:---:|:---|
-| 🌱 | Passionate about **building scalable full stack applications** |
-| 💞️ | Open to collaboration and **skill sharing** |
-| 📦 | Hands-on experience with **Docker** for containerized deployments |
-| 🤖 | Actively practicing **AI prompt engineering** with tools like Claude & ChatGPT |
-| 📫 | Reach me on **WhatsApp: +255 656 933 685** |
-| 😄 | Pronouns: `eng` / `developer` |
+| 🌱 | Continuously learning and improving in **backend engineering & system design** |
+| 💞️ | Open to collaboration, especially on **real-world impactful projects** |
+| 📦 | Experienced in **containerized deployments with Docker** |
+| 🤖 | Leveraging AI tools to **boost development productivity** |
+| 📫 | WhatsApp: **+255 656 933 685** |
 | ⚡ | Fun fact: I **hate cookies! 🍪🚫** |
 
 ---
