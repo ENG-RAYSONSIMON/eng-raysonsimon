@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Rayson Simon
 
-💻 **Full Stack Developer | MERN**
+💻 **Full Stack Developer | MERN  | Exploring Django REST Framework**
 🚀 Currently working at **Tanzanite Skills Academy** as a Full Stack Developer
 🎓 Bachelor of Science in Computer Science - BSc. CS
 
@@ -25,14 +25,16 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 </div>
 
 ### 🗄️ Database
 <div>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 
