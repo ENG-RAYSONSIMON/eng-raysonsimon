@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Rayson Simon
 
-💻 **Full Stack Developer (MERN) | Backend-Focused | Exploring Django REST Framework**
+💻 **Full Stack Developer | Backend-Focused**
 🚀 Full Stack Developer at **Tanzanite Skills Academy**
 🎓 BSc. Computer Science
 
